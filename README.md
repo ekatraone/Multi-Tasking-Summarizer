@@ -1,7 +1,7 @@
 # Multi-Tasking-Summarizer
 
 ### Steps to add your code into the repository.
-1. Install git on your desktop.
+1. Install git on your desktop
 2. Go to https://github.com/ekatraone and open your repo.
 3. Click on Code as shown in the Image. ![image](https://user-images.githubusercontent.com/65544983/177383821-99b3812e-7b24-466b-8b7b-9131db366c32.png)
 
